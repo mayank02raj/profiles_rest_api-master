@@ -1,1 +1,3 @@
-# profiles_rest_api-master
+# Profiles REST API
+
+Profiles REST API code.
